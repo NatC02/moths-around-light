@@ -3,7 +3,7 @@
 <div id="top"></div
 <div align="center">
 
-<img src="./moth.png" alt="Camera-perspective" style="width: 66.66vw; max-width: 400px; margin: 0 auto; display: block;">
+<img src="./moth.png" alt="moth" style="width: 66.66vw; max-width: 400px; margin: 0 auto; display: block;">
 
   <h3 align="center">This is exactly what it sounds like.</h3>
 
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<img src="./readme.gif" alt="Camera-perspective" style="width: 66.66vw; max-width: 800px; margin: 0 auto; display: block;">
+<img src="./project.gif" alt="moth around light bulb" style="width: 66.66vw; max-width: 800px; margin: 0 auto; display: block;">
 
 using:
 
